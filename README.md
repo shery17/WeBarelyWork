@@ -1,2 +1,2 @@
 # WeBarelyWork
-Front-End GUI Mobile-Only Web Design
+Front-End GUI Mobile-Only Web-Design
